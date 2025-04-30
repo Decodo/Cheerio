@@ -25,13 +25,14 @@ To run our example script, you are going to need a few libraries as well as Node
 
 `curl https://raw.githubusercontent.com/Decodo/Cheerio/master/cheerio.js > cheerio.js`
 
-<img src="https://i.imgur.com/hsJGFA6.png" alt="curl Decodo cheerio code sample">
+<img width="806" alt="image" src="https://github.com/user-attachments/assets/b6167a02-b2f3-4a78-9966-33cc39db88b5" />
+
 
 3. You should see a new file named cheerio.js in your project folder. Edit it using an editor of your choice.
 
 4. To set up your username, password, and endpoint you would like to use, change the corresponding lines within punctuation marks ('').
 
-<img src="https://i.imgur.com/mCksWWi.png" alt="Decodo cheerio http proxy configuration">
+<img width="519" alt="image" src="https://github.com/user-attachments/assets/9708164c-2894-40f7-8ab4-79554258fa0c" />
 
 ### Usage
 
@@ -41,7 +42,7 @@ To run this example script, while in your project folder, run the following comm
 
 If you did everything correctly, you should see an IP appearing from our proxy server once the script finishes running.
 
-<img src="https://i.imgur.com/QoCXHK6.png">
+<img width="303" alt="image" src="https://github.com/user-attachments/assets/7525db23-85e7-467f-a0bf-3a5eb91cdcc4" />
 
 ## Contacts
 Email - sales@decodo.com
